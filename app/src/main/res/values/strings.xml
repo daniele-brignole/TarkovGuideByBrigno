@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TarkovGuideByBrigno</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map_list">MapListActivity</string>
+    <string-array name="elencoMappe">
+        <item>Factory</item>
+        <item>Interchange</item>
+        <item>Woods</item>
+        <item>Customs</item>
+        <item>Shoreline</item>
+    </string-array>
+
+    <string name="title_activity_map">Map</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_inventory">Inventory</string>
+</resources>
